@@ -2,12 +2,15 @@
 
 Repositório destinado aos projetos práticos desenvolvidos durante a formação.
 
-## ⛽ Projeto 1: Análise de Preços de Combustíveis
-*   **Arquivo:** `ProjetoCombustivel.ipynb`
-*   **Descrição:** Análise exploratória sobre a variação de preços de combustíveis (Gasolina, Diesel e GLP) em nível nacional.
-*   **Ferramentas:** Python, Pandas, Matplotlib.
+#### ⛽ [Análise de Preços de Combustíveis no Brasil (Dados ANP)](https://github.com)
+**Contexto:** Projeto acadêmico (Senac) para analisar a volatilidade de preços de combustíveis.
+*   **O Desafio:** Unificar e limpar bases de dados governamentais para identificar variações regionais de preço.
+*   **Tecnologias:** Python, Pandas, Matplotlib e Seaborn.
+*   **Destaque:** Realizei o tratamento completo de dados brutos (ETL), convertendo moedas e datas para análise estatística.
+*   
 
-## 🏛️ Projeto 2: [Nome do Projeto ISPRJ - Ex: Análise de Segurança RJ]
-*   **Arquivo:** `Projeto_ISPRJ.ipynb`
-*   **Descrição:** Estudo detalhado focado em [descreva brevemente o que esse projeto faz, ex: índices do ISP no Rio de Janeiro].
-*   **Ferramentas:** Python, Pandas, Seaborn.
+#### 👮 [Análise de Segurança Pública - Rio de Janeiro (Dados ISP)](https://github.com)
+**Contexto:** Estudo focado nos indicadores de criminalidade do estado do RJ utilizando dados oficiais do Instituto de Segurança Pública.
+*   **O Desafio:** Processar séries históricas para identificar padrões de crimes contra o patrimônio e a vida.
+*   **Tecnologias:** Python (Pandas) e Visualização de Dados.
+*   **Destaque:** Identificação de tendências sazonais e agrupamento de categorias de crimes para facilitar a interpretação de indicadores complexos.
