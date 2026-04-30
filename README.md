@@ -1,5 +1,3 @@
-# Projetos Senac
-
 # 📊 Projetos de Análise de Dados - Senac Big Data Science
 
 Repositório destinado aos projetos práticos desenvolvidos durante a formação.
