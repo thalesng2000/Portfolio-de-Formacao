@@ -7,7 +7,6 @@ Repositório destinado aos projetos práticos desenvolvidos durante a formação
 *   **O Desafio:** Unificar e limpar bases de dados governamentais para identificar variações regionais de preço.
 *   **Tecnologias:** Python, Pandas, Matplotlib e Seaborn.
 *   **Destaque:** Realizei o tratamento completo de dados brutos (ETL), convertendo moedas e datas para análise estatística.
-*   
 
 #### 👮 [Análise de Segurança Pública - Rio de Janeiro (Dados ISP)](https://github.com/thalesng2000/Senac-Dados-26/blob/main/Projeto_ISPRJ.ipynb)
 **Contexto:** Estudo focado nos indicadores de criminalidade do estado do RJ utilizando dados oficiais do Instituto de Segurança Pública.
